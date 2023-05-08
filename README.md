@@ -1,6 +1,6 @@
 # Testing yolov7 and yolov7_mask models
 
-The aim of this project was to test both frameworks and use pre-trained models to train a model to detect not only animals from COCO dataset (the one that was used to train yolov7) but other animals as an extra class in the classification problem. 
+The aim of this project was to test both frameworks and use pre-trained models to train a new model to detect not only animals from COCO dataset (the one used to train yolov7) but other animals as an extra class in the classification problem. 
 
 The animal I choose was monkeys using data from public dataset [Monkey, Cat and Dog Detection](https://www.kaggle.com/datasets/tarunbisht11/yolo-animal-detection-small).
 
