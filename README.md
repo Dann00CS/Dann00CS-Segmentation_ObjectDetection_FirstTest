@@ -4,4 +4,4 @@ The goal of this project was to test both frameworks and use pre-trained models 
 
 The animal I choose was monkeys using data from public dataset [Monkey, Cat and Dog Detection](https://www.kaggle.com/datasets/tarunbisht11/yolo-animal-detection-small).
 
-Here, in my personal portfolio, you can check an [interactive web tool](http://www.sierradaniel.com/mcd_yolo/) I developed to make inference on this new model. 
+[Here](http://www.sierradaniel.com/mcd_yolo/), in my personal portfolio, you can check an [interactive web tool](http://www.sierradaniel.com/mcd_yolo/) I developed to make inference on this new model. 
