@@ -1,6 +1,23 @@
-# *.jpg
-# *.jpeg
-# *.png
-# *.gif
-# *.pkl
-# *.json
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.pkl
+*.json
+*.xml
+*.txt
+
+data/monkey_cat_dog
+runs/
+detectron2/
+# yolov7_mask/
+PROJECT_output_mcd/mcd_batch2_fromepoch51/
+PROJECT_output_mcd/mcd_batch16_epoch55/
+PROJECT_output_mcd/mcd_batch16_epoch100/
+PROJECT_output_mcd/mcd_batch16_epoch200/
+PROJECT_output_mcd/mcd_from_batch12_epoch200_50epochsmore/weights
+
+TrainYOLOv7.ipynb
+traced_model.pt
+main.ipynb
+inference_mask.ipynb

@@ -1,0 +1,8 @@
+train: data/monkey_cat_dog_asYolov7input/train/images
+val: data/monkey_cat_dog_asYolov7input/valid/images
+
+# number of classes
+nc: 3
+
+# class names
+names: ['monkey', 'cat', 'dog']
